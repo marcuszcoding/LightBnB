@@ -168,17 +168,6 @@ GROUP BY properties.id`;
 
 exports.getAllProperties = getAllProperties;
 
-/* Psuedo all props
-if statement checks for
-  city,
-  owner_id,
-  minimum_price_per_night,
-  maximum_price_per_night,
-  minimum_rating;
-
-*/
-
-
 /**
  * Add a property to the database
  * @param {{}} property An object containing all of the property details.

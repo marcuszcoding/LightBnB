@@ -18,6 +18,7 @@ This was a project mainly focused on buidling SQL skills and learning how to wri
 - cookie-session
 - express
 - nodemon
+- pg
 
 ## Project Structure
 

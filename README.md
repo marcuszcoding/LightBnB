@@ -11,6 +11,14 @@ This was a project mainly focused on buidling SQL skills and learning how to wri
 !["Screenshot of Reservations Page](https://github.com/marcuszcoding/LightBnB/blob/main/docs/my-reservations-page.png)
 !["Screenshot of Create Listing Page"](https://github.com/marcuszcoding/LightBnB/blob/main/docs/create-listing.png)
 
+## Dependencies 
+
+- bcrypt
+- body-parser
+- cookie-session
+- express
+- nodemon
+
 ## Project Structure
 
 

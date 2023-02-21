@@ -1,6 +1,6 @@
 # LightBnB
 
-LightBnb is a very simple website that lets you book your next vacation easily! With LightBnB you can search places that have the best reviews, that are most cost-effective, and are in whichever area you want to vactation!
+LightBnb is a very simple website that lets you book your next vacation easily! With LightBnB you can search for places to stay that are in the location you are visiting! When searching you can also filter by your price range and how good of reviews each place has! 
 
 This was a project mainly focused on buidling SQL skills and learning how to write propery queries. The front and back end of this website were forked and cloned while I wokred on just connecting the server and the database. 
 

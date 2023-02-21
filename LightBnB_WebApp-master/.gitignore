@@ -88,4 +88,4 @@ typings/
 .dynamodb/
 
 # DS_Store from mac 
-.DS_store
+.DS_Store

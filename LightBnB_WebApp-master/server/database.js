@@ -146,7 +146,7 @@ const getAllProperties = (options, limit = 10) => {
   }
 
   queryString += `
-GROUP BY properties.id`;
+GROUP BY properties.id`; // In order to run HAVING AVG for our minimum rating GROUP BY has to run first
 
   if (options.minimum_rating) {
     queryParams.push(Number(`${options.minimum_rating}`));
